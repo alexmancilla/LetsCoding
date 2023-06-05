@@ -24,7 +24,8 @@ def getTwoSum(nums: list[int], target: int) -> list[int]:
 
     # return []
 
-    hashmap = {}
+    # hashmap = {}
+    hashmap = dict()
     n = len(nums)
     
     for element in range(n):

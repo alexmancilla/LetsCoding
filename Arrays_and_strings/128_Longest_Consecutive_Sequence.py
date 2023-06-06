@@ -10,16 +10,16 @@ def longestConsecutive(nums: list[int]) -> int:
         longest = 0
 
         for n in nums:
-            print(f'Vamos en: {n}')
+            # print(f'Vamos en: {n}')
             # check if its the start of a sequence
             if (n - 1) not in numSet:
-                print(f'No tenemos: {n-1}, Es inicio {n}')
+                # print(f'No tenemos: {n-1}, Es inicio {n}')
                 length = 1
-                print(f'Tenemos al menos: {length} de largo empezando en: {n}')
+                # print(f'Tenemos al menos: {length} de largo empezando en: {n}')
                 while (n + length) in numSet:
-                    print(f'Si tenemos: {n + length}')
+                    # print(f'Si tenemos: {n + length}')
                     length += 1
-                    print(f'Tenemos al menos: {length} de largo empezando en: {n}')
+                    # print(f'Tenemos al menos: {length} de largo empezando en: {n}')
                 longest = max(length, longest)
         return longest
 

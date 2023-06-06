@@ -5,7 +5,7 @@ Happy coding hour !!! Lets solve some problems with code 🐱‍💻
 
 | #    | Problem                                       | Solution                                            | Difficulty |
 | ---- | -------------------------------------------- | --------------------------------------------------- | ---------- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Python]([enlace_python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/1_Two_Sum.py))| Easy |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/1_Two_Sum.py)| Easy |
 | 0128 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/128_Longest_Consecutive_Sequence.py) | Medium |
 | 0217 | [Contains Duplicate](enlace_a_Contains_Duplicate) | [Python](enlace_a_python) | Easy |
 | 1436 | [Destination_City](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/1436_Destination_City.py) | Easy |
@@ -17,7 +17,7 @@ Happy coding hour !!! Lets solve some problems with code 🐱‍💻
 
 | #    | Problem                                       | Solution                                            | Difficulty |
 | ---- | -------------------------------------------- | --------------------------------------------------- | ---------- |
-| 0020 | [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python]([enlace_python](https://github.com/alexmancilla/LetsCoding/blob/main/Stack/20_Valid_Parentheses.py))| Easy |
+| 0020 | [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Stack/20_Valid_Parentheses.py)| Easy |
 
 
 

@@ -28,5 +28,6 @@ Happy coding hour !!! Lets solve some problems with code 🐱‍💻
 | 0344 | [Reverse a string](https://leetcode.com/problems/reverse-string/)| [Python]([enlace_python](https://github.com/alexmancilla/LetsCoding/blob/main/two_pointers/344_Reverse_String.py))| Easy |
 
 
+Este es un texto en <span style="color:red;">rojo</span>.
 
 

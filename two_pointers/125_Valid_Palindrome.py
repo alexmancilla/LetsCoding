@@ -3,16 +3,26 @@ Input: s = "A man, a plan, a canal: Panama"
 Output: true
 Explanation: "amanaplanacanalpanama" is a palindrome.
 """
-s = "A man, a plan, a canal: Panama"
+# s = "A man, a plan, a canal: Panama"
+s = '0P'
 
 # ascii values for lower case from 97 to 122
 def validPalindrome(s: str) -> bool:
     new_string = ''
     lowerString = s.lower()
 
+
+    def isAlpha(c):
+        if ord(char) >= ord("a") and ord(char) <= ord("z"):
+            return True
+        elif ord(char) >= ord("0") and ord(char) <= ord("9"):
+            return True
+        else:
+            return False
+
     # creating clean string
     for char in lowerString:
-        if ord(char) >= 97 and ord(char) <= 122:
+        if isAlpha(char):
             new_string += char
         
     # pointers
@@ -30,3 +40,5 @@ def validPalindrome(s: str) -> bool:
 
 sol = validPalindrome(s)
 print(sol)
+
+

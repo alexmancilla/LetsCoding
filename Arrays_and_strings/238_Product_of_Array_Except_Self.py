@@ -21,5 +21,6 @@ def productOfArray(nums: list[int])->list[int]:
         res[i] *= postFix
         postFix *= nums[i]
     return res
+
 sol = productOfArray(nums)
 print(sol)

@@ -6,9 +6,7 @@ Happy coding hour !!! Lets solve some problems with code 🐱‍💻
 | #    | Problem                                       | Solution                                            | Difficulty |
 | ---- | -------------------------------------------- | --------------------------------------------------- | ---------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/1_Two_Sum.py)| Easy |
-<!-- | 0000 | [Name](enlace_a_programa) | [Python](enlace) | Easy | -->
 | 0128 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/128_Longest_Consecutive_Sequence.py) | Medium |
-<!-- | 0000 | [Name](enlace_a_programa) | [Python](enlace) | Easy | -->
 | 0217 | [Contains Duplicate](enlace_a_Contains_Duplicate) | [Python](enlace_a_python) | Easy |
 <!-- | 0000 | [Name](enlace_a_programa) | [Python](enlace) | Easy | -->
 | 0238 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/238_Product_of_Array_Except_Self.py) | Medium |

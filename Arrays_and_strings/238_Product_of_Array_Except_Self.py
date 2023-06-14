@@ -8,18 +8,18 @@ You must write an algorithm that runs in O(n) time and without using the divisio
 nums = [-1,1,0,-3,3]
 
 def productOfArray(nums: list[int])->list[int]:
-    answer = [1] * (len(nums))
-    product = 1
+    n = len(nums)
+    res = [1] * (n)
+    prefix = 1
 
-    for num in nums:
-        product *= num
+    for i in range(n):
+        res[i] = prefix
+        prefix *= nums[i]
 
-    for ans in range(len(nums)):
-        answer.append(product // nums[ans])
-    return answer
-
-
-
-
+    postFix = 1
+    for i in range(n - 1, -1, -1):
+        res[i] *= postFix
+        postFix *= nums[i]
+    return res
 sol = productOfArray(nums)
 print(sol)

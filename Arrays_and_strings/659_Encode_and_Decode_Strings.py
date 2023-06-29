@@ -1,6 +1,7 @@
 # 659
-# 659 · Encode and Decode Strings
+# Encode and Decode Strings
 # https://www.lintcode.com/problem/659/
+# https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/659_Encode_and_Decode_Strings.py
 
 """
 Design an algorithm to encode a list of strings to a string. 

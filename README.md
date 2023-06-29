@@ -6,9 +6,11 @@ Happy coding hour !!! Lets solve some problems with code 🐱‍💻
 | #    | Problem                                       | Solution                                            | Difficulty |
 | ---- | -------------------------------------------- | --------------------------------------------------- | ---------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/1_Two_Sum.py)| Easy |
+| 0049| [Group Anagrams](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/49_Group_Anagrams.py) | Medium |
 | 0128 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/128_Longest_Consecutive_Sequence.py) | Medium |
 | 0217 | [Contains Duplicate](enlace_a_Contains_Duplicate) | [Python](enlace_a_python) | Easy |
 | 0238 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/238_Product_of_Array_Except_Self.py) | Medium |
+| 0659 | [Encode and Decode Strings](https://www.lintcode.com/problem/659/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/659_Encode_and_Decode_Strings.py) | Medium |
 | 1436 | [Destination_City](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/1436_Destination_City.py) | Easy |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/1672_Richest_Customer_Wealth.py) | Easy |
 | 2351 | [First letter to appear twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Python](https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/2351_First_Letter_to_Appear_Twice.py) | Easy |

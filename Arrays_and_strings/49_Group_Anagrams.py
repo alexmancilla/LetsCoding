@@ -1,3 +1,7 @@
+# 0049
+# Group Anagrams
+# https://leetcode.com/problems/valid-anagram/
+# https://github.com/alexmancilla/LetsCoding/blob/main/Arrays_and_strings/49_Group_Anagrams.py
 from collections import defaultdict
 
 strs = ["eat","tea","tan","ate","nat","bat"]

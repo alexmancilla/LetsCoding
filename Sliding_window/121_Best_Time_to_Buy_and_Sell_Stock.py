@@ -16,20 +16,26 @@ If you cannot achieve any profit, return 0.
 
 
 p = [7,1,5,3,6,4]
+# Using two pointers two iterate over the array
+# we look for a profibale ocasion where r ptr is > that left ptr
+# if profitable calculate the max pro
+# if not l ptr = r ptr because is r ptr is minor so that means possible or better profit
+# always we iterate r ptr
 
 def maxProfit(prices: list[int])-> int:
-    maxP = 0
     l = 0
     r = 1
+    mxProfit = 0
     while r < len(prices):
-        # if profitable
-        if prices[l] < prices[r]:
+        # profitable?
+        if prices[r] > prices[l]:
             profit = prices[r] - prices[l]
-            maxP = max(profit, maxP)
+            mxProfit = max(mxProfit, profit)
         else:
             l = r
-        r += 1
-    return maxP
+        r+=1
+    return mxProfit
+
 
 
 sol = maxProfit(p)
